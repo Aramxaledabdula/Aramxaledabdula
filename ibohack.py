@@ -203,9 +203,9 @@ def menu(my_name,my_id):
 	gh = 'Quta-XD'
 	print('')
 	
-	print('\[ 1 ] CRACK MULITY ID')
+#---	print('\[ 1 ] CRACK MULITY ID')
 	print('\[ 2 ] CRACK TAKING FILE')
-	print('[ 2 ] CRACK  FILE')
+#---	print('[ 2 ] CRACK  FILE')
 	print('[ 0 ] LOG OUT')
 	_____alvino__adijaya_____ = input('\n ➣ CHOICE MENU :  ')
 	if _____alvino__adijaya_____ in ['1']:
